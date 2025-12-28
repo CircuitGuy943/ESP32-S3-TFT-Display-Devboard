@@ -1,0 +1,35 @@
+Qty,Value,Footprint
+3,0.1uF,Capacitor_SMD:C_0402_1005Metric
+4,10uF,Capacitor_SMD:C_0603_1608Metric
+2,22uF,Capacitor_SMD:C_0603_1608Metric
+1,1uF,Capacitor_SMD:C_0402_1005Metric
+1,RED 5V,LED_SMD:LED_0402_1005Metric
+1,RED 3.3V,LED_SMD:LED_0402_1005Metric
+1,GREEN GPIO,LED_SMD:LED_0402_1005Metric
+3,Diode,Diode_SMD:D_SMB
+2,USB_C_Receptacle_USB2.0_16P,Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A
+1,Conn_01x40_Socket,Connector_FFC-FPC:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal
+2,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+2,Conn_01x09_Pin,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical
+2,Conn_01x14_Pin,Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical
+1,22uH,My_Library:5028_SMD_INDUCTOR_SRR5028-220Y
+2,2N3904,Package_TO_SOT_SMD:SOT-23
+4,5.1K,Resistor_SMD:R_0402_1005Metric
+4,27R,Resistor_SMD:R_0402_1005Metric
+4,1K,Resistor_SMD:R_0402_1005Metric
+2,5.7K,Resistor_SMD:R_0402_1005Metric
+6,10K,Resistor_SMD:R_0402_1005Metric
+1,396K,Resistor_SMD:R_0402_1005Metric
+1,1.8K,Resistor_SMD:R_0402_1005Metric
+1,22R,Resistor_SMD:R_0402_1005Metric
+2,100R,Resistor_SMD:R_0402_1005Metric
+1,47K,Resistor_SMD:R_0402_1005Metric
+1,10K,Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical
+2,SW_Push,Button_Switch_SMD:SW_Push_1P1T-SH_NO_CK_KMR2xxG
+1,ESP32-S3-WROOM-1,RF_Module:ESP32-S3-WROOM-1
+1,MT3608,Package_TO_SOT_SMD:SOT-23-6
+1,CAT4104,My_Library:CAT4104
+1,CH340C,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+1,LD1117S33TR_SOT223,Package_TO_SOT_SMD:SOT-223-3_TabPin2
+,,
+ALL ITEMS ARE FOR 1 DEVBOARD ONLY,,
