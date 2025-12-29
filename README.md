@@ -9,7 +9,7 @@ The ESP TFT Devboard is a devboard based on the ESP32-S3-WROOM-1 module with an 
 - Support for a TFT 3x8 RGB display
 
 ## PCB
-And this is my PCB. A bit difficult to include everything under 100mm but I managed to do it and got it to 65x100mm. Normal two layer PCB with copper ground areas:
+And this is my PCB. Very difficult to include everything in two layers but I managed to do it to save cost, and ommitted the use of an via in pads, the USB traces are length matched but the signals for the display don't need any trace/impedance matching as they don't run fast enough.
 
 <img src=Pictures/PCB_FRONT.png alt="PCB View" width="300"/> <img src=Pictures/PCB_BACK.png alt="PCB Rendered View" width="300"/> 
 
@@ -23,7 +23,7 @@ And here are some 3D views as well:
 <img src=Pictures/3D_VIEW_2.png alt="Schematic" width="800"/>
 
 ## Firmware Overview
-I've included some basic firmware to get the TFT working but other than that it should function like a normal devboard
+I've included some basic firmware to get the TFT working but other than that it should function like a normal devboard hosting an ESP32
 
 ## BOM:
 I have also included a .csv with the BOM list but here it is anyways.
