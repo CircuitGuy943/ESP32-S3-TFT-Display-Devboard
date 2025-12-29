@@ -1,4 +1,4 @@
-# The Klipper Console
+# ESP32 TFT Display Devboard
 
 The ESP TFT Devboard is a devboard based on the ESP32-S3-WROOM-1 module with an integrated 40-pin connector designed to fully operate a TFT Display (one with a 3x8 RGB parallel interface) from the USB C connector only for power. It also has a bunch of breakout headers so that the GPIO pins can be accessed and used for other things, like a normal devboard whenever the display isn't being used. It consists of two USB C ports, one using the ESP32's built in USB connection and another using a USB to UART bridge (There is also a diode on each to ensure that the 5V doesn't backfeed if both USBs are connected). It then also consists of a boost converter to 24V for the LED Backlight and a current sink regulator to ensure it doesn't consume more than the rated current of 70mA.
 
