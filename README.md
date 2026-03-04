@@ -23,7 +23,7 @@ And here are some 3D views as well:
 <img src=Pictures/3D_VIEW_2.png alt="Schematic" width="800"/>
 
 ## Firmware Overview
-I've included some basic firmware to get the TFT working but other than that it should function like a normal devboard hosting an ESP32
+I've included some basic firmware (**untested**) to get the TFT working but other than that it should function like a normal devboard hosting an ESP32
 
 ## BOM:
 I have also included a .csv with the BOM list but here it is anyways.
