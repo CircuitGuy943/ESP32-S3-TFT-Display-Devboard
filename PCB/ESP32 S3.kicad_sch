@@ -20328,7 +20328,7 @@
 		(fields_autoplaced yes)
 		(uuid "b50fd87f-9a31-41b3-8932-6f6669cc17f5")
 		(property "Reference" "U6"
-			(at 78.74 19.05 0)
+			(at 78.74 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20336,7 +20336,7 @@
 			)
 		)
 		(property "Value" "LD1117S33TR_SOT223"
-			(at 78.74 21.59 0)
+			(at 78.74 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
