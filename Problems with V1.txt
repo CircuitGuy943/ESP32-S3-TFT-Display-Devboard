@@ -1,0 +1,3 @@
+24V bust converter is not layout correctly so it doesn't properly boost and messes with 5V rail which messes with ground and MCU. Ground plane is alos not good enough
+
+Not all parallel RGB pins are needed for LovyanGFX if you don't want full color.
